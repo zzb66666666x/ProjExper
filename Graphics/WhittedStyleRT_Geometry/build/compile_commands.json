@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/MyCode/Cpp/GAMES101/Assignment5/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\main.cpp.obj -c D:\\MyCode\\Cpp\\GAMES101\\Assignment5\\main.cpp",
+  "file": "D:/MyCode/Cpp/GAMES101/Assignment5/main.cpp"
+},
+{
+  "directory": "D:/MyCode/Cpp/GAMES101/Assignment5/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Renderer.cpp.obj -c D:\\MyCode\\Cpp\\GAMES101\\Assignment5\\Renderer.cpp",
+  "file": "D:/MyCode/Cpp/GAMES101/Assignment5/Renderer.cpp"
+}
+]

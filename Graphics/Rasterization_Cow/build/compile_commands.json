@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/MyCode/Cpp/GAMES101/Assignment3/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.cpp.obj -c D:\\MyCode\\Cpp\\GAMES101\\Assignment3\\main.cpp",
+  "file": "D:/MyCode/Cpp/GAMES101/Assignment3/main.cpp"
+},
+{
+  "directory": "D:/MyCode/Cpp/GAMES101/Assignment3/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.cpp.obj -c D:\\MyCode\\Cpp\\GAMES101\\Assignment3\\rasterizer.cpp",
+  "file": "D:/MyCode/Cpp/GAMES101/Assignment3/rasterizer.cpp"
+},
+{
+  "directory": "D:/MyCode/Cpp/GAMES101/Assignment3/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj -c D:\\MyCode\\Cpp\\GAMES101\\Assignment3\\Triangle.cpp",
+  "file": "D:/MyCode/Cpp/GAMES101/Assignment3/Triangle.cpp"
+},
+{
+  "directory": "D:/MyCode/Cpp/GAMES101/Assignment3/build",
+  "command": "D:\\MinGW\\TDM64GCC\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Texture.cpp.obj -c D:\\MyCode\\Cpp\\GAMES101\\Assignment3\\Texture.cpp",
+  "file": "D:/MyCode/Cpp/GAMES101/Assignment3/Texture.cpp"
+}
+]
